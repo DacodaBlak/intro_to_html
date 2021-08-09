@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/style2.css">
+    <title>Wireframe CSS Float</title>
+</head>
+<body>
+    <!--top div-->
+    <div class="top">
+        <img id="pic" src="/images/menuicon.png"/>   
+   </div>
+
+<!--three equal pic divs that are a column, then float to a row-->
+
+<div class="row">
+ 
+   <div class="column" >
+     
+   </div>   
+
+   <div class="column" >
+      
+   </div>
+  
+   <div class="column" >
+        
+   </div> 
+
+
+</div>
+   
+   <!--footer-->
+   <div class="footer">
+      <h6>&copy 2021 BlakStamp</h6>
+      
+   </div>
+
+</body>
+</html>
